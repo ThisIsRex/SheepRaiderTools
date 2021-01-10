@@ -1,0 +1,11 @@
+[package]
+name = "encodelib"
+version = "0.1.0"
+authors = ["MG_REX <49415741+ThisIsRex@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"]}

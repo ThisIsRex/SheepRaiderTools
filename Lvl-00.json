@@ -1,0 +1,1787 @@
+{
+  "crc_header": 584378206,
+  "header": [
+    118,
+    49,
+    46,
+    50,
+    7,
+    0,
+    34,
+    0
+  ],
+  "crc_data": 3338814277,
+  "data": [
+    {
+      "length": 82,
+      "strings": [
+        "pause",
+        "reprendre",
+        "options",
+        "sortir",
+        "options audio",
+        "configuration manette",
+        "réglages écran",
+        "mode",
+        "bruitages",
+        "voix",
+        "musique",
+        "sous-titres",
+        "mono",
+        "stéréo",
+        "stéréo inversée",
+        "oui",
+        "non",
+        "configuration",
+        "action",
+        "saut",
+        "vue interne",
+        "course",
+        "inventaire rapide",
+        "pas de loup",
+        "vue gauche",
+        "vue droite",
+        "vibration",
+        "personnaliser",
+        "changer",
+        "accepter",
+        "choisir bouton",
+        "es-tu sûr?",
+        "valider",
+        "annuler",
+        "retour",
+        "utiliser",
+        "aide",
+        "combiner",
+        "commander",
+        "prendre",
+        "parler",
+        "porter",
+        "pousser",
+        "tourner",
+        "entrer",
+        "se cacher",
+        "utiliser",
+        "actionner",
+        "s'accrocher",
+        "désamorcer",
+        "carte",
+        "lire",
+        "regarder",
+        "grimper",
+        "poser",
+        "arrêter",
+        "désactiver",
+        "sortir",
+        "décrocher",
+        "tirer",
+        "lâcher",
+        "voulez-vous vraiment\narrêter la cinématique?",
+        "bêler",
+        "lâcher prise",
+        "bouh",
+        "gonfler",
+        "ouvrir",
+        "s'accrocher",
+        "lâcher prise",
+        "tourner",
+        "planter",
+        "mode démo    appuyer sur $B_START$",
+        "sauvegarde automatique",
+        "désassembler",
+        "gigoter",
+        "sauvegarder",
+        "accepter",
+        "une faim de loup",
+        "régler",
+        "bonus",
+        "recommencer le niveau",
+        "carte mémoire"
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 1,
+      "strings": [
+        "Fusée:\nLa fusée est un objet bien utile qui te permet de voler.\n\nle bouton $B_ACTION$ te permet de décoller ou de t'éjecter.\nutilise le bouton $B_RUN$ pour accélérer.\n\nLa jauge bleue t'indique le carburant.\nLa jauge rouge représente le nombre de fois où tu touches le décor.\n\nFais attention à ne pas le toucher trop souvent car tu peux exploser."
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 3,
+      "strings": [
+        "\nAttention\n\nl'utilisation prolongée\nde ce jeu peut mener les\npersonnes les plus\nsérieuses à la démence!",
+        "\n\nÊtes-vous sûr de vouloir\njouer à ce jeu ?",
+        "\non vous aura prévenu!\n\nPour commencer,franchissez\nla ligne blanche..."
+      ]
+    },
+    {
+      "length": 24,
+      "strings": [
+        "as-tu bien compris?",
+        "$19$Si tu veux me suivre\n$18$--et qui ne le voudrait pas--\n$22$appuie sur la touche $B_JUMP$ \n$28$et fais exactement comme moi.",
+        "",
+        "$23$Si tu veux sauter plus haut,\n$31$appuie une deuxième fois sur la touche $B_JUMP$ \n$24$quand tu es au sommet du premier saut.\n$25$ça marche comme sur des ressorts.",
+        "",
+        "",
+        "$31$Et tu peux aussi utiliser la touche $B_JUMP$\n$30$pour plonger dans le vide!",
+        "$100$hou-hou, oh,\n$25$Je me bidonne!\n$44$Sérieusement, si tu veux être bon à ce jeu,\n$34$va falloir remuer le yaourt qui te sert de cervelle.\n$30$Allez, suis-moi jusqu'à la route.",
+        "$STOP$",
+        "$23$Et si on faisait une petite course?\n$19$Je vais te dire comment gagner.\n$19$Quand tu franchiras la ligne de départ,\n$33$on t'accordera un temps limite pour finir la course.\n$20$Pour respecter ce temps, tu appuieras  \n$20$très $C_RED$vite$C_DEFAULT$ sur la touche $B_RUN$\n$17$pour accroître ta $C_RED$vitesse$C_DEFAULT$.\n$15$Et si tu vas assez $C_RED$vite$C_DEFAULT$,\n$30$tu pourras rester suspendu dans les airs\n$27$pendant un petit instant.\n$22$Pratique pour franchir les $C_RED$précipices$C_DEFAULT$,\n$35$gouffres sans fond et autres terrifiants abîmes.",
+        "$36$Tu peux faire mieux que ça, vas-y!\n$20$Tu as une autre chance.",
+        "",
+        "",
+        "$18$Je savais que ce défi\n$19$ne te poserait pas trop de problèmes...\n$26$Tu retrouveras ton ami Bip-Bip plus loin \n$06$dans le jeu.\n$14$Si tu es assez bon.",
+        "$12$Pour réussir à $C_RED$voler$C_DEFAULT$ \n$12$un mouton à $C_RED$Sam$C_DEFAULT$\n$14$le chien de Berger,\n$25$tu auras plusieurs objets à ta disposition.\n$20$Mais il faudra aussi que tu saches\n$34$utiliser certains objets du décor... \n$15$Pour Ouvrir la grille\n$26$le bouton rouge doit être enfoncé...\n$09$pour y arriver,\n$18$saute sur la première bascule\n$20$et le $C_RED$gros$C_DEFAULT$ rocher va te catapulter \n$11$de l'autre côté.\n$27$Ensuite saute sur la deuxième bascule\n$25$pour éjecter le $C_RED$petit$C_DEFAULT$ rocher sur le bouton\n$28$pour que la porte reste ouverte.",
+        "",
+        "$42$Pour capturer un mouton et élaborer un plan\n$31$tu dois t'aider de ton $C_RED$inventaire$C_DEFAULT$\n$30$en appuyant sur la touche $B_SELECT$.\n$21$tu découvriras la $C_RED$carte$C_DEFAULT$ du niveau\n$24$et les $C_RED$objets$C_DEFAULT$ à ta disposition.\n$26$Pour récupérer un objet, il faut le commander\n$20$en actionnant une $C_RED$boîte aux lettres$C_DEFAULT$.\n$18$Si tu veux savoir dans quelle \n$27$boîte aux lettres commander un objet,\n$23$sélectionne-le dans ton inventaire\n$55$et un rond rouge encerclera la boîte qui te le donnera.\n$19$les objets dessinés en couleur\n$18$sont ceux que tu as déjà récupérés\n$16$et que tu peux utiliser.\n$24$Tu peux aussi consulter le $C_RED$mode d'emploi$C_DEFAULT$\n$34$des objets pour connaître leur fonctionnement.\n$33$Essaye ton inventaire, et commande ton objet\n$21$à la boîte aux lettres...",
+        "$30$Hé! Qu'est-ce qui t'arrive?\n$25$Récupère cet objet et entrepose-le \n$14$dans ton Inventaire.\n$22$Tu pourras l'utiliser à tout moment\n$35$en gardant appuyée la touche $B_QUICKINV$.\n$12$Encore une chose:\n$28$un menu va apparaître avec tes objets.\n$20$Sélectionne celui que tu veux\n$22$avec les flèches de droite et de gauche,\n$36$ensuite tu n'as plus qu'à relâcher la touche.\n$20$Si tu veux entreposer cet objet\n$33$appuie une fois sur cette touche.\n$19$Allez! Sers-toi de la fusée\n$30$pour voler jusqu'au goal.",
+        "",
+        "$27$Hé! hé! hé! Bravo! \n$30$N'oublie pas que pour terminer chaque niveau,\n$31$tu dois être dans le goal avec un mouton.\n$20$En fait, il faut que tous les deux \n$13$vous soyez dans le goal\n$23$ou la manche ne compte pas!\n$35$Et ce serait tout à fait méprisable.",
+        "$LOCK$$VIEW$$30$Psst, Je suis derrière toi!\n$42$Tu n'as qu'à utiliser les touches $B_CAM_LEFT$ ET $B_CAM_RIGHT$ \n$28$pour déplacer la caméra.",
+        "$LOCK$$VIEW$$22$Je vais me cacher.\n$14$Si tu veux me trouver,\n$38$garde appuyée la touche $B_INTVIEW$.",
+        "$LOCK$$16$Tout va bien l'ami. \n$16$Ces touches sont utiles \n$28$si tu veux regarder autour de toi.",
+        "$LOCK$$20$\n$16$Une chose après l'autre. \n$50$D'abord, comment utiliser la caméra."
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 2,
+      "strings": [
+        "",
+        "$27$Tu n'as pas l'air bien parti!\n$17$Suis moi, je vais t'expliquer\n$20$quelques commandes du jeu...\n$70$"
+      ]
+    },
+    {
+      "length": 82,
+      "strings": [
+        "pause",
+        "resume",
+        "options",
+        "exit",
+        "sound options",
+        "controller setting",
+        "screen centering",
+        "mode",
+        "sfx",
+        "voice",
+        "music",
+        "sub-titles",
+        "mono",
+        "stereo",
+        "reverse stereo",
+        "yes",
+        "no",
+        "configuration",
+        "action",
+        "jump",
+        "wolf's eye view",
+        "run",
+        "quick inventory",
+        "walk stealthily",
+        "camera left",
+        "camera right",
+        "vibration",
+        "customize",
+        "change",
+        "done",
+        "Press button",
+        "are you sure?",
+        "validate",
+        "cancel",
+        "back",
+        "use",
+        "help",
+        "combine",
+        "order",
+        "take",
+        "talk",
+        "carry",
+        "push",
+        "turn",
+        "enter",
+        "hide",
+        "use",
+        "activate",
+        "cling to",
+        "defuse",
+        "map",
+        "read",
+        "watch",
+        "climb",
+        "put",
+        "stop",
+        "deactivate",
+        "go out",
+        "take up",
+        "fire",
+        "drop",
+        "do you really want to\nstop the cut-scene?",
+        "bleat",
+        "let go",
+        "boo",
+        "blow up",
+        "open",
+        "grip",
+        "let go",
+        "turn",
+        "plant",
+        "demo mode         press $B_START$",
+        "automatic save",
+        "take apart",
+        "squirm",
+        "save",
+        "accept",
+        "sheep, dog 'n' wolf",
+        "set",
+        "bonus",
+        "restart level",
+        "memory card"
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 1,
+      "strings": [
+        "rocket:\nThe rocket is a very useful item that helps you to fly.\n\nthe $B_ACTION$ button helps you take off or to eject. \nuse the $B_RUN$ button to accelerate.\n\nThe blue gauge shows how much fuel is left.\nThe red gauge indicates how many times you've touched the scenery.\n\nWatch out and don't touch too often or you might explode."
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 3,
+      "strings": [
+        "Attention \n\nextended use of this game\ncan drive even the most\nserious people crazy!",
+        "\n\nAre you sure you want\nto play this game?",
+        "\nwe warned you!\n\nto start, cross the \nwhite line..."
+      ]
+    },
+    {
+      "length": 24,
+      "strings": [
+        "Did you understand well?",
+        "$20$If you wanna follow me\n$15$--and who wouldn't--\n$18$use the $B_JUMP$ button\n$30$and just do what I'm doing!",
+        "",
+        "$22$If you wanna jump higher,\n$21$press the button a second time\n$25$when you are at the highest point of your jump.\n$30$Works like a charm!",
+        "",
+        "",
+        "$36$Heh-heh, might I also suggest\n$18$you use the $B_JUMP$ button\n$25$to take a flying leap.",
+        "$100$hoo-hoo, oh,\n$33$I do crack myself up.\n$34$Seriously though, if you wanna be good at this game,\n$26$you'll have to use the ol'noggin.\n$35$Come on, follow me up to the road.",
+        "$STOP$",
+        "$25$Hey, how'bout a little race?\n$14$Ya wanna know how to win:\n$21$When you cross the starting line,\n$31$you'll get a limited amount of time to finish the race.\n$37$To do this, press $C_RED$steadily$C_DEFAULT$ on the $B_RUN$ button\n$20$to increase your $C_RED$speed$C_DEFAULT$.\n$17$If you run $C_RED$fast enough$C_DEFAULT$,\n$30$you'll be able to stay suspended in midair\n$24$for a short period of time.\n$35$This will come in handy to get over $C_RED$precipices$C_DEFAULT$.\n$22$Fancy word for cliffs.",
+        "$35$C'mon, you can do better than that!\n$22$Here's another chance.",
+        "",
+        "",
+        "$21$I knew you could do it!\n$20$You'll probably be able to challenge\n$20$Road Runner later in the game,\n$30$if you're up for it!",
+        "$35$To help you $C_RED$steal sheep$C_DEFAULT$ from Sam Sheep-Dog,\n$25$you will be given several objects.\n$19$But wait, there is more.\n$24$you also gotta know how to use objects\n$13$in the background.\n$37$To open the gate, the red button has to be pressed.\n$26$Just $C_RED$jump on the first seesaw$C_DEFAULT$\n$33$and the big rock will throw you to the other side.\n$27$Then $C_RED$jump on the second seesaw$C_DEFAULT$\n$30$to launch the little rock towards the button\n$29$so that the gate remains open.\n$25$Confused yet? Me too...\n$35$Woo-hoo! Woo-hoo!",
+        "",
+        "$42$Listen, if you wanna get sheep and make a plan,\n$32$you have to use your $C_RED$inventory$C_DEFAULT$.\n$26$First press the $B_SELECT$ button\n$18$which will show you the level's $C_RED$map$C_DEFAULT$\n$24$and the $C_RED$objects$C_DEFAULT$ available to you.\n$24$To get an object, you have to order it\n$21$by opening a letterbox.\n$21$If you want to know in which letterbox\n$23$you have to order a specific object,\n$20$select it in your inventory \n$35$and a red circle will appear around the letter box,\n$23$which means it's yours.\n$19$The objects drawn in white\n$26$are the ones you can find in the level. \n$19$The colored objects\n$33$are those you already collected and can use.\n$17$If that's not enough,\n$29$you can also look at the objects' user guide\n$23$for instructions on how to use it.\n$30$So, c'mon -- try out your inventory\n$26$and order an object from a letterbox.\n$30$Today! Batteries not included.",
+        "$30$Hey, what's the matter with you?\n$38$pick up that object and store it in your inventory.\n$19$Then you can use it right away\n$37$by keeping $B_QUICKINV$ pressed down.\n$13$Here's another thing --\n$28$a menu will appear with your objects.\n$19$Just select the one you want\n$18$with the right and left directional buttons,\n$36$then release the button, and it's done!\n$21$If you want to store your object,\n$28$Just press once on this button.\n$28$Now get back and use the rocket\n$22$to fly to the GOAL.",
+        "",
+        "$22$He-he-hey, good for you!\n$29$Don't forget that to finish each level,\n$34$you must be in the GOAL with the sheep!\n$29$In fact, you have to both be in the GOAL\n$25$or the challenge doesn't count.\n$40$And that would be despicable.",
+        "$LOCK$$VIEW$$35$PSSST. I am right behind you.\n$67$Just use the $B_CAM_LEFT$ and $B_CAM_RIGHT$ buttons to move the camera...",
+        "$LOCK$$VIEW$$23$Now I'll hide up here.\n$15$If you wanna find me\n$36$keep the $B_INTVIEW$ button pressed down.",
+        "$LOCK$$24$Nice goin', bub.\n$15$These commands will come in handy\n$37$If you wanna look around...",
+        "$LOCK$$70$First things first... how to use the camera."
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 2,
+      "strings": [
+        "",
+        "$20$Hoo, that didn't work too well!\n$10$\n$20$Follow me and I'll explain\n$20$a few commands...\n$70$"
+      ]
+    },
+    {
+      "length": 82,
+      "strings": [
+        "PAUSA",
+        "REANUDAR",
+        "OPCIONES",
+        "volver",
+        "OPCIONES DE SONIDO",
+        "CONFIG. DEL MANDO",
+        "AJUSTE PANTALLA",
+        "MODO",
+        "EFECTOS DE SONIDO",
+        "VOZ",
+        "MÚSICA",
+        "SUBTÍTULOS",
+        "MONO",
+        "ESTÉREO",
+        "estéreo inverso",
+        "SÍ",
+        "NO",
+        "CONFIGURACIÓN",
+        "ACCIÓN",
+        "SALTO",
+        "VISTA INTERNA",
+        "CARRERA",
+        "INVENTARIO RÁPIDO",
+        "SIGILOSO",
+        "VISTA IZQUIERDA",
+        "VISTA DERECHA",
+        "VIBRACIÓN",
+        "PERSONALIZAR",
+        "CAMBIAR",
+        "ACEPTAR",
+        "SELECCIONAR BOTÓN",
+        "¿ESTÁS SEGURO?",
+        "VALIDAR",
+        "CANCELAR",
+        "VOLVER",
+        "UTILIZAR",
+        "AYUDA",
+        "COMBINAR",
+        "PEDIR",
+        "COGER",
+        "HABLAR",
+        "LLEVAR",
+        "EMPUJAR",
+        "GIRAR",
+        "ENTRAR",
+        "ESCONDERSE",
+        "UTILIZAR",
+        "ACTIVAR",
+        "AGARRARSE",
+        "DESACTIVAR",
+        "MAPA",
+        "LEER",
+        "MIRAR",
+        "ESCALAR",
+        "COLOCAR",
+        "DETENERSE",
+        "DESACTIVAR",
+        "SALIR",
+        "DESENGANCHAR",
+        "TIRAR",
+        "SOLTAR",
+        "¿QUIERES SALTARTE \nLA SECUENCIA?",
+        "BALAR",
+        "SOLTAR",
+        "BUUUUU",
+        "INFLAR",
+        "ABRIR",
+        "AGARRARSE",
+        "SOLTAR",
+        "GIRAR",
+        "PLANTAR",
+        "modo de demostración, pulsa $B_START$",
+        "GUARDADO AUTOMÁTICO",
+        "DISOCIAR",
+        "PATALEAR",
+        "GUARDAR",
+        "ACEPTAR",
+        "Perro Ovejero y Lobo",
+        "AJUSTAR",
+        "BONIFICACIÓN",
+        "volver a comenzar nivel",
+        "la tarjeta de memoria"
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 1,
+      "strings": [
+        "COHETE:\nEL COHETE ES UN OBJETO MUY ÚTIL QUE TE PERMITIRÁ VOLAR.\n\nCON EL BOTÓN $B_ACTION$ PODRÁS ACTIVAR.\nCON EL BOTÓN $B_RUN$ PODRÁS ACELERAR.\n\nEL INDICADOR AZUL VA MIDIENDO  EL CARBURANTE.\nEL INDICADOR ROJO MARCA EL NÚMERO DE VECES QUE CHOCAS CONTRA LOS ESCENARIOS. \n\nPROCURA NO CHOCARTE DEMASIADO, PORQUE PUEDES SALTAR POR LOS AIRES."
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 3,
+      "strings": [
+        "\nATENCIÓN\n\n¡EL USO PROLONGADO DE ESTE JUEGO\nPUEDE HACER PERDER LA CABEZA A \nLAS PERSONAS MÁS CUERDAS!",
+        "\n\n¿ESTÁS SEGURO DE QUE \nQUIERES JUGAR?",
+        "\n¡TE HEMOS AVISADO!\n\nPARA EMPEZAR, ATRAVIESA LA\nLÍNEA BLANCA..."
+      ]
+    },
+    {
+      "length": 24,
+      "strings": [
+        "Did you understand well?",
+        "$20$si quieres seguirme\n$16$--y quién no querría--\n$21$utiliza el botón $B_JUMP$\n$31$y haz lo que hago yo.",
+        "",
+        "$25$Si quieres saltar más alto,\n$20$aprieta el botón una segunda vez\n$27$cuando estés en el punto más alto de tu salto.\n$31$¡Funciona de maravilla!",
+        "",
+        "",
+        "$34$je, je, También te sugiero\n$27$que utilices el botón $B_JUMP$\n$18$para volar.",
+        "$100$hoo-hoo, oh,\n$35$¡Es que me troncho!\n$34$En serio, si quieres jugar bien a este juego\n$26$debes utilizar el tarro.\n$33$Vamos, sígueme por la carretera.",
+        "$STOP$",
+        "$25$¿Qué?¿Qué tal una carrerita, amigo?\n$14$Te diré cómo ganar:\n$22$Cuando cruzas la línea de salida\n$32$tienes un tiempo limitado para acabar la carrera.\n$35$Para hacerlo, aprieta $C_RED$firmemente$C_DEFAULT$ el botón $B_RUN$\n$22$para aumentar tu $C_RED$velocidad$C_DEFAULT$.\n$20$Si corres lo $C_RED$bastante deprisa$C_DEFAULT$,\n$24$podrás quedarte suspendido en el aire\n$26$un breve periodo de tiempo.\n$39$Esto te ayudará a superar los $C_RED$precipicios$C_DEFAULT$.\n$22$Es un sinónimo de barrancos.",
+        "$34$¡Vamos, puedes hacerlo mejor!\n$23$Te daré otra oportunidad.",
+        "",
+        "",
+        "$25$¡Sabía que lo conseguirías!\n$17$Probablemente podrás retar\n$18$al Correcaminos más adelante\n$31$¡estás preparado para ello!",
+        "$33$Para robarle las $C_RED$ovejas$C_DEFAULT$ al perro ovejero Sam,\n$24$te darán diversos objetos.\n$21$Pero espera, hay más\n$28$también tienes que saber cómo utilizar los objetos\n$17$sobre el decorado del juego.\n$33$Para abrir la puerta debes apretar el botón rojo.\n$19$$C_RED$Salta sobre el primer columpio$C_DEFAULT$\n$36$y la piedra grande te lanzará al otro lado.\n$29$Después $C_RED$salta sobre el segundo columpio$C_DEFAULT$\n$28$para lanzar la piedra pequeña hacia el botón\n$26$para que la puerta siga abierta.\n$28$¿Todavía no te aclaras? Yo tampoco.\n$36$¡Jo! ¡Jo!",
+        "",
+        "$39$Oye, si quieres conseguir ovejas y hacer un plan,\n$29$debes utilizar tu $C_RED$inventario$C_DEFAULT$.\n$35$Primero aprieta el botón $B_SELECT$\n$23$que te mostrará el $C_RED$mapa$C_DEFAULT$ del nivel\n$20$y los $C_RED$objetos$C_DEFAULT$ disponibles.\n$30$Para conseguir un objeto debes encargarlo\n$13$abriendo un buzón.\n$19$Si quieres saber en qué buzón\n$20$encargar un objeto determinado,\n$22$selecciónalo en tu inventario\n$41$y aparecerá un círculo rojo alrededor del buzón.\n$24$esto significa que es tuyo.\n$19$Los objetos de color blanco\n$29$son los que puedes encontrar en el nivel.\n$17$Los objetos de colores\n$33$son los que ya has cogido y puedes utilizar.\n$17$Y si no tienes bastante,\n$36$también puedes consultar la guía del usuario de objetos\n$13$donde encontrarás\n$16$instrucciones para utilizarlos.\n$21$Así que vamos, mira tu inventario\n$20$y encarga un objeto de un buzón.\n$35$¡Hoy mismo! La pilas no están incluídas.",
+        "$28$¡Eh¡ ¿qué te pasa?\n$37$Recoge este objeto y guárdalo en tu inventario.\n$27$Después podrás utilizarlo inmediatamente\n$31$manteniendo pulsado el botón $B_QUICKINV$.\n$13$Otra cosa :\n$27$aparecerá un menú con tus objetos.\n$16$Selecciona el que quieres\n$23$con las flechas de izquierda y derecha\n$24$y después suelta el botón.\n$30$Si quieres almacenar tu objeto,\n$31$aprieta una vez este botón.\n$33$Ahora regresa y utiliza el cohete\n$22$para volar hasta la META.",
+        "",
+        "$25$¡Je, je, je, muy bien!\n$24$No olvides que para acabar cada nivel\n$38$debes estar en la META con las ovejas.\n$35$Atención, debes estar tú con ellas en la META\n$20$o tu esfuerzo será inútil.\n$37$Y eso sería despreciable.",
+        "$LOCK$$VIEW$$31$PSSST. Estoy detrás de ti.\n$23$Sólo tienes que utilizar los botones\n$48$$B_CAM_LEFT$ y $B_CAM_RIGHT$ para mover la cámara",
+        "$LOCK$$VIEW$$20$Ahora me esconderé aquí.\n$15$Si quieres encontrarme,\n$39$mantén pulsado el botón $B_INTVIEW$.",
+        "$LOCK$$20$Muy bien, amigo.\n$21$Estos comandos están a tu alcance\n$40$si miras a tu alrededor.",
+        "$LOCK$$70$Lo primero es lo primero... cómo utilizar la cámara."
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 2,
+      "strings": [
+        "",
+        "$30$¡Oh, no ha funcionado demasiado bien!\n$17$Sígueme y te explicaré\n$14$algunos comandos.\n$84$"
+      ]
+    },
+    {
+      "length": 82,
+      "strings": [
+        "PAUSA",
+        "RIPRENDI",
+        "OPZIONI",
+        "ESCI",
+        "OPZIONI AUDIO",
+        "OPZIONI CONTROLLER",
+        "REGOLA SCHERMO",
+        "MODALITÀ",
+        "EFFETTI",
+        "VOCI",
+        "MUSICA",
+        "TESTI",
+        "MONO",
+        "STEREO",
+        "Stereo invertito",
+        "SÌ",
+        "NO",
+        "CONFIGURAZIONE",
+        "AZIONE",
+        "SALTO",
+        "VISUALE INTERNA",
+        "CORRI",
+        "INVENTARIO RAPIDO",
+        "DI SOPPIATTO",
+        "VISUALE A SINISTRA",
+        "VISUALE A DESTRA",
+        "VIBRAZIONE",
+        "PERSONALIZZA",
+        "CAMBIA",
+        "ACCETTA",
+        "SCEGLI TASTO",
+        "SEI SICURO?",
+        "CONFERMA",
+        "ANNULLA",
+        "INDIETRO",
+        "USA",
+        "GUIDA",
+        "COMBINA",
+        "ORDINA",
+        "PRENDI",
+        "PARLA",
+        "TRASPORTA",
+        "SPINGI",
+        "GIRA",
+        "ENTRA",
+        "NASCONDITI",
+        "USA",
+        "ATTIVA",
+        "AGGRAPPATI",
+        "NEUTRALIZZA",
+        "MAPPA",
+        "LEGGI",
+        "GUARDA",
+        "ARRAMPICATI",
+        "POSA",
+        "FERMATI",
+        "DISATTIVA",
+        "SMETTI",
+        "STACCA",
+        "TIRA",
+        "LASCIA",
+        "VUOI DAVVERO FERMARE\nLA SCENA?",
+        "BELA",
+        "LASCIA LA PRESA",
+        "BUUUU",
+        "GONFIA",
+        "APRI",
+        "AGGRAPPATI",
+        "LASCIA LA PRESA",
+        "GIRA",
+        "PIANTA",
+        "$B_START$ PER INIZIARE",
+        "SALVATAGGIO AUTOMATICO",
+        "SMONTA",
+        "AGITATI",
+        "SALVA",
+        "ACCETTA",
+        "RALPH IL LUPO ALL' ATTACCO",
+        "REGOLA",
+        "bonus",
+        "Ricomincia il livello",
+        "memory card"
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 1,
+      "strings": [
+        "RAZZO:\nIL RAZZO È UN OGGETTO MOLTO UTILE CHE TI PERMETTE DI VOLARE.\n\nIL TASTO $B_ACTION$ TI PERMETTE DI DECOLLARE O DI LANCIARTI.\nPREMI IL TASTO $B_RUN$ PER ACCELERARE.\n\nL'INDICATORE BLU MOSTRA IL CARBURANTE RIMASTO.\nL'INDICATORE ROSSO MOSTRA QUANTE VOLTE HAI TOCCATO LO SCENARIO.\n\nATTENTO A NON TOCCARE TROPPI OGGETTI, PERCHÉ PUOI ESPLODERE."
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 3,
+      "strings": [
+        "\nATTENZIONE\n\nL'UTILIZZO PROLUNGATO DI\nQUESTO GIOCO POTREBBE\nCONDURRE ALLA PAZZIA!",
+        "\n\nSEI SICURO DI VOLER\nGIOCARE?",
+        "\nIO TI HO AVVERTITO!\n\nPER COMINCIARE, SUPERA\nLA LINEA BIANCA..."
+      ]
+    },
+    {
+      "length": 24,
+      "strings": [
+        "Did you understand well?",
+        "$16$Se vuoi seguirmi,\n$15$e chi non lo vorrebbe,\n$47$usa il pulsante $B_JUMP$ e fai quello che sto facendo io.",
+        "",
+        "$21$Se vuoi saltare piÙ in alto,\n$23$premi il bottone una seconda volta \n$27$quando sei nel punto piÙ alto del tuo salto. \n$25$Funziona che È una bellezza!",
+        "",
+        "",
+        "$36$Heh-heh, Potrei modestamente suggerirti\n$19$di usare il bottone $B_JUMP$\n$25$per eseguire un salto al volo?!",
+        "$100$hoo-hoo, oh,\n$34$mi sto sentendo male dal ridere.\n$14$Seriamente adesso, \n$21$se vuoi essere bravo in questo gioco,\n$25$devi usare la tua vecchia zucca!\n$29$Avanti... seguimi fino alla strada.",
+        "$STOP$",
+        "$26$Ehi, che ne dici di una corsetta?\n$15$Vuoi sapere come vincere?\n$28$Quando attraverserai la linea di partenza,\n$26$avrai un tempo limitato per finire la corsa.\n$35$Per sbrigarti, devi premere forte sul bottone $B_RUN$ \n$17$per aumentare la tua velocitÀ.\n$22$Se corri abbastanza velocemente,\n$28$sarai in grado di rimanere sospeso a mezz'aria\n$22$per un breve periodo di tempo.\n$36$Questo ti servirÀ per superare i precipizi.\n$27$Nome chic per i burroni.",
+        "$33$Ma andiamo,tu puoi fare meglio di cosÌ!\n$22$Provaci un'altra volta.",
+        "",
+        "",
+        "$19$Sapevo ce l'avresti fatta!\n$16$Probabilmente piÙ avanti nel gioco\n$21$potrai anche sfidare Beep Beep,\n$28$sempre che tu te la senta!",
+        "$35$Per aiutarti a rubare le pecore di Sam Canepastore\n$24$ti verranno dati diversi oggetti.\n$19$Ma aspetta, c'È di piÙ.\n$21$Devi anche saper usare gli oggetti\n$18$che si trovano nel paesaggio.\n$14$Per aprire il cancello,\n$23$bisogna premere il pulsante rosso.\n$24$Poi salta sulla prima altalena...\n$33$e la grande roccia ti lancerÀ dall’altra parte.\n$28$Poi... salta sulla seconda altalena\n$17$per lanciare la roccia piccola\n$21$sopra il bottone per fare in modo\n$19$che il cancello rimanga aperto.\n$13$Sei un po’ confuso?\n$57$Anch'io. Woo-hoo! Woo-hoo!",
+        "",
+        "$8$Senti... \n$28$se vuoi prendere le pecore e fare un piano,\n$33$devi utilizzare il tuo inventario.\n$28$Prima... schiaccia il bottone inventario\n$21$che ti mostrerà la mappa del livello\n$21$e gli oggetti a tua disposizione.\n$16$Per prendere un oggetto,\n$31$lo devi ordinare aprendo una cassetta della posta.\n$23$Se vuoi sapere in quale cassetta\n$24$puoi ordinare un oggetto specifico, \n$34$selezionalo nel tuo inventario e un cerchio rosso \n$17$apparirÀ intorno alla cassetta\n$24$per indicare che quella È la tua.\n$29$Gli oggetti disegnati in bianco sono quelli\n$19$che troverai su quel livello.\n$23$Gli oggetti colorati sono quelli\n$22$che hai giÀ preso e che puoi usare.\n$18$E se non ti bastasse,\n$29$puoi guardare sulle istruzioni degli oggetti\n$27$per avere indicazioni su come usarli.\n$30$Quindi, forza, prova il tuo inventario\n$29$e ordina un oggetto da una cassetta della posta.\n$31$Oggi! Batterie non incluse!",
+        "$28$Ehi, ma che cosa ti prende?\n$20$Raccogli quell'oggetto e conservalo\n$15$nel tuo inventario.\n$27$Poi potrai usarlo quando vuoi tenendo\n$30$schiacciato il bottone $B_QUICKINV$. \n$27$Ecco un'altra cosa: un menÙ apparirÀ\n$14$con i tuoi oggetti.\n$18$Seleziona quello che vuoi\n$23$con le frecce destra e sinistra,\n$33$poi... rilascia il bottone ed È fatta.\n$23$Se vuoi conservare il tuo oggetto,\n$31$basta premere una volta sola su questo bottone.\n$23$Adesso torna indietro e usa\n$36$il razzo per volare fino al GOAL.",
+        "",
+        "$22$He, he, ehi! Buon per te!\n$31$Non scordare che per terminare ciascun livello,\n$30$devi entrare nel GOAL con la pecora.\n$34$Infatti, dovete essere entrambi all'interno del GOAL\n$23$o la sfida non avrÀ valore.\n$35$E questo sarebbe insopportabile.",
+        "$LOCK$$VIEW$$30$Psst. Sono proprio dietro di te.\n$41$Non devi far altro che usare i pulsanti camera\n$28$per muovere la telecamera.",
+        "$LOCK$$VIEW$$21$Adesso mi nasconderÒ quassÙ.\n$55$Se vorrai trovarmi... dovrai tenere premuto il pulsante: $B_INTVIEW$",
+        "$LOCK$$17$Sei bravo, amico!\n$18$Questi comandi ti saranno utili\n$24$se vorrai guardarti intorno.",
+        "$LOCK$$20$ \n$56$Come primissima cosa, come usare la telecamera."
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 2,
+      "strings": [
+        "",
+        "$26$Ooh, questa non È andata troppo bene!\n$32$Seguimi e ti spiegherÒ un paio di comandi.\n$82$"
+      ]
+    },
+    {
+      "length": 82,
+      "strings": [
+        "pause",
+        "WEITER",
+        "OPTIONEN",
+        "verlassen",
+        "SOUNDOPTIONEN",
+        "KONFIG. CONTROLLER",
+        "BILDSCHIRM EINST.",
+        "MODUS",
+        "EFFEKTE",
+        "STIMMEN",
+        "MUSIK",
+        "UNTERTITEL",
+        "mono",
+        "Stereo",
+        "Stereo-Umkehrung",
+        "JA",
+        "NEIN",
+        "KONFIGURATION",
+        "AKTION",
+        "SPRINGEN",
+        "INNENANSICHT",
+        "RENNEN",
+        "SCHNELL-INVENTAR",
+        "SCHLEICHEN",
+        "ANSICHT LINKS",
+        "ANSICHT RECHTS",
+        "vibration",
+        "ANPASSEN",
+        "ÄNDERN",
+        "OK",
+        "TASTE WÄHLEN",
+        "BIST DU SICHER?",
+        "BESTÄTIGEN",
+        "ABBRECHEN",
+        "ZURÜCK",
+        "VERWENDEN",
+        "HILFE",
+        "KOMBINIEREN",
+        "BESTELLEN",
+        "NEHMEN",
+        "SPRECHEN",
+        "TRAGEN",
+        "SCHIEBEN",
+        "DREHEN",
+        "EINGEBEN",
+        "SICH VERSTECKEN",
+        "VERWENDEN",
+        "AKTIVIEREN",
+        "FESTMACHEN",
+        "ENTSCHÄRFEN",
+        "KARTE",
+        "LESEN",
+        "SCHAUEN",
+        "HOCHKLETTERN",
+        "HINSTELLEN",
+        "AUSSCHALTEN",
+        "DEAKTIVIEREN",
+        "RAUSKOMMEN",
+        "AUSHÄNGEN",
+        "ZIEHEN",
+        "LÖSEN",
+        "WOLLEN SIE DAS VIDEO\nWIRKLICH BEENDEN?",
+        "BLÖKEN",
+        "LOSLASSEN",
+        "BUHEN",
+        "AUFBLASEN",
+        "ÖFFNEN",
+        "FESTMACHEN",
+        "LOSLASSEN",
+        "DREHEN",
+        "PFLANZEN",
+        "DEMO        DRÜCKEN SIE $B_START$",
+        "AUT. SPEICHERUNG",
+        "TRENNEN",
+        "ZAPPELN",
+        "SPEICHERN",
+        "OK",
+        "SHEEP, DOG 'N' WOLF",
+        "EINSTELLEN",
+        "bonus",
+        "Neustart Level",
+        "memory card"
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 1,
+      "strings": [
+        "RAKETE:\nWENN'S DRAUF ANKOMMT KANNST DU MIT DER RAKETE FLIEGEN!\n\nMIT DER $B_ACTION$ TASTE KANNST DU ENTWEDER ABHEBEN ODER DICH WEGSCHLEUDERN.\nMIT DER $B_RUN$ TASTE KANNST DU BESCHLEUNIGEN.\n\nDER BLAUE BALKEN ZEIGT DIR AN, WIE VIEL SPRIT DU NOCH HAST.\nDER ROTE BALKEN ZEIGT, WIE OFT DU HINDERNISSE BERÜHRT HAST.\n\nPASS AUF, DASS DU NICHT ZU OFT ANSTÖSST, SONST EXPLODIERST DU!"
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 3,
+      "strings": [
+        "\nACHTUNG\n\nLÄNGERES SPIELEN DIESES\nSPIELS KANN SELBST BEI\nEXTREM VERNÜNFTIGEN\nMENSCHEN ZUR VÖLLIGEN\nVERBLÖDUNG FÜHREN!",
+        "\n\nBIST DU SICHER, DASS DU DIESES\nSPIEL SPIELEN MÖCHTEST?",
+        "\nSAG NICHT, WIR HÄTTEN DICH\nNICHT GEWARNT!\n\nZUM STARTEN ÜBER DIE WEISSE\nLINIE GEHEN ..."
+      ]
+    },
+    {
+      "length": 24,
+      "strings": [
+        "Hast du verstanden?",
+        "$20$Wenn du mir folgen willst\n$20$-und wer wollte das nicht- \n$20$benutze die $B_JUMP$ Taste\n$30$und tu' einfach das, was ich tue!",
+        "",
+        "$22$Wenn du noch höher springen willst, \n$21$drücke die Taste ein zweites Mal, \n$25$wenn du am höchsten Punkt deines Sprunges bist! \n$30$Das klappt hervorragend!",
+        "",
+        "",
+        "$36$Hä, hä, dürfte ich  vorschlagen, \n$18$dass du die $B_JUMP$ Taste benutzt, \n$30$wenn du einen riesengrossen Satz machen willst?!",
+        "$105$Ho, ho, oh! \n$33$Ich lach mich gleich kaputt! \n$14$Aber mal im Ernst: \n$20$Wenn du gut sein möchtest bei diesem Spiel, \n$28$solltest du  deine olle Birne schon benutzen! \n$30$Komm, folge mir zur Strasse!",
+        "$STOP$",
+        "$26$Wie wär's mit einem kleinen Rennen? \n$20$Möchtest du wissen, wie man gewinnt:\n$21$Wenn du die Startlinie überquerst, \n$16$bekommst du eine gewisse Zeitspanne,\n$20$in der du das Rennen beenden musst. \n$36$Dazu drückst du $C_RED$durchgängig$C_DEFAULT$ auf die $B_RUN$ Taste,\n$20$womit du deine $C_RED$Geschwindigkeit$C_DEFAULT$ erhöhst!\n$22$Wenn du $C_RED$schnell genug$C_DEFAULT$ rennst, \n$32$kannst du für kurze Zeit in der Luft verschnaufen!\n$38$Das wird praktisch sein, um über $C_RED$Abgründe$C_DEFAULT$ hinwegzukommen!\n$24$Mein Lieblingswort für Klippen!?!",
+        "$35$Komm, das kannst du doch viel besser! \n$24$Hier kommt 'ne noch eine Chance!",
+        "",
+        "",
+        "$30$Ich wusste, dass du es kannst! \n$20$Später im Spiel wirst du vielleicht \n$20$den Road Runner herausfordern können, \n$20$wenn du so weit bist!",
+        "$20$Damit du es leichter hast,\n$24$von Sam Sheepdog $C_RED$Schafe zu stehlen$C_DEFAULT$,\n$25$stehen dir mehrere Dinge  zur Verfügung. \n$20$Aber halt, da gibt's noch was: \n$24$Du solltest auch wissen, wie man diese Dinge \n$15$im Hintergrund benutzt. \n$37$Um das Tor zu öffnen, muss man den roten Knopf drücken!\n$22$$C_RED$Spring' einfach auf die erste Wippe$C_DEFAULT$\n$16$und der grosse Stein wird dich \n$18$auf die andere Seite schleudern! \n$26$Dann $C_RED$spring' auf die zweite Wippe$C_DEFAULT$,\n$30$um den kleinen Stein  gegen den Knopf zu schleudern, \n$24$damit das Tor offen bleibt! \n$25$Schon etwas verwirrt? Ich auch! \n$35$Wu-hu, wu-hu!",
+        "",
+        "$22$Hör' zu, wenn du Schafe kriegen \n$25$und einen Plan aushecken willst,\n$23$musst du dein $C_RED$Inventar$C_DEFAULT$ benutzen!\n$20$Drücke zuerst die $B_SELECT$ Taste, \n$24$dann werden dir die $C_RED$Karte$C_DEFAULT$ des Spiel-Levels \n$27$und die dir zur Verfügung stehenden $C_RED$Objekte$C_DEFAULT$ angezeigt. \n$29$Um ein Objekt zu bekommen, musst du es bestellen, \n$25$indem du einen Briefkasten öffnest!\n$24$Wenn du wissen möchtest, in welchem Briefkasten \n$19$du ein bestimmtes Objekt bestellen musst, \n$25$wähle es in deinem Inventar aus  \n$15$dann erscheint ein roter Kreis \n$15$um den Briefkasten herum, \n$23$was bedeutet, dass er dir gehört! \n$20$Die weiss gezeichneten Objekte sind die, \n$27$die du in diesem Level finden kannst.  \n$16$Die farbigen Objekte sind die,  \n$30$die du bereits gesammelt hast und benutzen kannst! \n$13$Und wenn Dir das nicht reicht,\n$10$kannst du auch \n$17$in die Objekt Bedienungsanleitung schauen\n$22$und dort nachlesen, wie's geht. \n$25$Also los, probier' dein Inventar aus \n$28$und bestelle ein Objekt aus einem Briefkasten! \n$34$Heute noch! Batterien sind nicht inbegriffen!",
+        "$32$Hey, was ist mit dir los? \n$23$Nimm dieses Objekt mit und sichere es \n$15$in deinem Inventar! \n$19$Dann kannst du es sofort benutzen, \n$38$indem du die $B_QUICKINV$-Taste gedrückt hältst. \n$14$Und noch etwas:  \n$28$Ein Menü wird mit deinen Objekten erscheinen! \n$19$Wähle einfach das was du willst\n$18$mit den Rechts und Links-Pfeilen aus, \n$36$lass' dann die Taste los und fertig! \n$21$Wenn du dein Objekt sichern willst, \n$28$drücke nur einmal auf diese Taste! \n$28$Jetzt geh' zurück zum Spiel und nimm die Rakete, \n$22$um ins Ziel zu fliegen!",
+        "",
+        "$30$He-he-hey, gut für dich! \n$35$Vergiss' nicht, dass du, um einen Level  abzuschliessen,\n$35$das Ziel mit den Schafen zusammen erreichen musst! \n$27$Im Grunde müsst ihr sogar beide im Ziel sein, \n$17$sonst zählt der Wettkampf nicht! \n$38$Und das wäre in der Tat abscheulich!",
+        "$LOCK$$VIEW$$35$Pssst! Ich bin genau hinter dir! \n$40$Benutze einfach die $B_CAM_LEFT$ und $B_CAM_RIGHT$ Knöpfe, \n$20$um die Kamera zu bewegen!",
+        "$LOCK$$VIEW$$25$Ich werde mich jetzt hier oben verstecken. \n$15$Wenn du mich suchst, \n$36$halte den $B_INTVIEW$ Knopf gedrückt!",
+        "$LOCK$$22$Gut gemacht! \n$17$Diese Kommandos werden noch nützlich sein, \n$30$wenn du dich mal umsehen möchtest!",
+        "$LOCK$$70$Zunächst mal das Erste: wie man die Kamera benutzt!"
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 2,
+      "strings": [
+        "",
+        "$26$Oh, das lief ja nicht so gut! \n$10$\n$18$Folge mir, dann erkläre ich dir\n$20$ein paar Kommandos!\n$70$"
+      ]
+    },
+    {
+      "length": 82,
+      "strings": [
+        "PAUZE",
+        "HERVATTEN",
+        "OPTIES",
+        "AFSLUITEN",
+        "GELUIDSOPTIES",
+        "commando's",
+        "SCHERMINSTELLINGEN",
+        "MODE",
+        "GELUIDSEFFECTEN",
+        "STEMMEN",
+        "MUZIEK",
+        "ONDERTITELING",
+        "MONO",
+        "STEREO",
+        "OMGEKEERDE STEREO",
+        "JA",
+        "NEE",
+        "CONFIGURATIE",
+        "ACTIE",
+        "SPRINGEN",
+        "Ralfs GEZICHTSPUNT",
+        "RENNEN",
+        "SNELLE INVENTARIS",
+        "SLUIPEN",
+        "ZICHTPUNT LINKS",
+        "ZICHTPUNT RECHTS",
+        "TRILLING",
+        "PERSOONLIJK MAKEN",
+        "AANPASSEN",
+        "ACCEPTEREN",
+        "TOETS KIEZEN",
+        "WEET JE HET ZEKER?",
+        "BEVESTIGEN",
+        "ANNULEREN",
+        "TERUG",
+        "GEBRUIKEN",
+        "HELP",
+        "COMBINEREN",
+        "BESTELLEN",
+        "PAKKEN",
+        "PRATEN",
+        "DRAGEN",
+        "DUWEN",
+        "DRAAIEN",
+        "BINNENGAAN",
+        "VERSTOPPEN",
+        "GEBRUIKEN",
+        "ACTIVEREN",
+        "VASTMAKEN",
+        "DEMONTEREN",
+        "KAART",
+        "LEZEN",
+        "BEKIJKEN",
+        "KLIMMEN",
+        "PLAATSEN",
+        "STOPPEN",
+        "DEACTIVEREN",
+        "VERLATEN",
+        "LOSMAKEN",
+        "TREKKEN",
+        "LOSLATEN",
+        "WIL JE HET FILMPJE\nECHT STOPPEN?",
+        "BLATEN",
+        "LOSLATEN",
+        "GILLEN",
+        "OPBLAZEN",
+        "OPENEN",
+        "VASTPAKKEN",
+        "LOSLATEN",
+        "DRAAIEN",
+        "PLANTEN",
+        "$B_START$ OM TE BEGINNEN",
+        "Automatisch OPSLAAN",
+        "ONTMANTELEN",
+        "SPARTELEN",
+        "OPSLAAN",
+        "ACCEPTEREN",
+        "Sheep, Dog 'n' Wolf",
+        "AFSTELLEN",
+        "BONUS",
+        "Level opnieuw starten",
+        "geheugenkaart"
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 1,
+      "strings": [
+        "VUURPIJL:\nEEN VUURPIJL IS EEN NUTTIG VOORWERP WAARMEE JE KUNT VLIEGEN.\n\nMET $B_ACTION$ KUN JE OPSTIJGEN OF JEZELF AFSCHIETEN.\nGEBRUIK $B_RUN$ OM SNELLER TE GAAN.\n\nDE BLAUWE METER GEEFT HET BRANDSTOFNIVEAU AAN.\nDE RODE METER GEEFT AAN HOE VAAK JE DE OMGEVING RAAKT.\n\nPAS OP DAT JE JE NIET TE VAAK STOOT, WANT JE KUNT ONTPLOFFEN."
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 3,
+      "strings": [
+        "\nLET OP\n\nLANGDURIG GEBRUIK VAN DIT\nSPEL KAN ZELFS DE MEEST\nSERIEUZE MENSEN\nKNETTERGEK MAKEN !",
+        "\n\nWEET JE ZEKER DAT JE DIT\nSPEL WILT SPELEN?",
+        "\nJE BENT GEWAARSCHUWD!\n\nOM TE BEGINNEN, MOET JE\nDE WITTE LIJN PASSEREN..."
+      ]
+    },
+    {
+      "length": 24,
+      "strings": [
+        "Did you understand well?",
+        "$16$Als je me wilt volgen\n$15$--en wie wil dat niet--\n$20$gebruik dan de $B_JUMP$ toets\n$27$en doe precies wat ik doe!",
+        "",
+        "$19$Wil je hoger springen,\n$21$druk de toets dan nog eens\n$26$in als je op 't hoogst van je sprong bent.\n$30$Werkt als 'n trein!",
+        "",
+        "",
+        "$28$Hahaha, nog een aanbeveling:\n$22$gebruik de $B_JUMP$ toets\n$25$ook voor een zweefsprong!",
+        "$20$Hahaha...\n$61$oehoeh oehoeh oehoeh hahaha...\n$52$Oh-haha, ik lach me suf. Hahaha!\n$35$Maar effe serieus, wil je goed worden in dit spel,\n$28$dan moet je je koppie gebruiken.\n$25$Kom op, volg mij maar 's.",
+        "$STOP$",
+        "$23$HÉ, zin in een race?\n$17$Wil je weten hoe je wint?\n$18$Als je de startlijn overgaat,\n$32$krijg je 'n bepaalde tijd om de race af te maken.\n$36$Om dit te doen druk $C_RED$geregeld$C_DEFAULT$ op de $B_RUN$ toets\n$19$om je snelheid te $C_RED$verhogen$C_DEFAULT$.\n$21$Als je snel $C_RED$genoeg gaat$C_DEFAULT$,\n$36$zal je in staat zijn een paar tellen in de lucht\n$18$te blijven hangen.\n$35$Dat kan handig zijn om over rotsen en $C_RED$ravijnen$C_DEFAULT$ \n$23$te springen en zo.",
+        "$32$Kom op!! Dat kan stukken beter!\n$27$Je krijgt nog 'n kans.",
+        "",
+        "",
+        "$20$Ik wÍst dat je het kon!\n$11$Misschien kun je zelfs\n$27$Road Runner uitdagen, verderop in het spel..\n$21$als je zover komt!",
+        "$33$Om schapen te kunnen $C_RED$stelen$C_DEFAULT$ van Sam Sheep-Dog,\n$26$krijg je verschillende voorwerpen.\n$19$Maar wacht, er is meer:\n$22$je moet weten hoe je de voorwerpen\n$15$in de achtergrond gebruikt.\n$37$Om het hek te openen, moet je op de rode toets drukken.\n$22$$C_RED$Spring op de eerste wip$C_DEFAULT$\n$37$en de grote steen gooit je naar de andere kant.\n$22$$C_RED$spring dan op de tweede wip$C_DEFAULT$\n$37$om de kleine steen richting toets te schieten,\n$24$zodat het hek openblijft.\n$25$Verwarrend? Vind ik ook!\n$40$Woehoe Woehoe...",
+        "",
+        "$30$Luister, om schapen te vangen\n$12$en een plan te maken,\n$33$moet je je $C_RED$inventaris$C_DEFAULT$ gebruiken.\n$22$Druk eerst op de inventaris-toets,\n$22$dan zie je de $C_RED$kaart van het$C_DEFAULT$ level\n$25$en de $C_RED$voorwerpen$C_DEFAULT$ die je ter beschikking hebt.\n$15$Wil je een voorwerp hebben,\n$35$reserveer het dan door een brievenbus te openen.\n$24$Wil je weten in welke brievenbus\n$18$je een bepaald voorwerp moet reserveren,\n$27$selecteer het dan in je inventaris\n$27$en er verschijnt een rode cirkel om de brievenbus,\n$23$en dan is 't van jou.\n$33$De witte voorwerpen zijn de voorwerpen die je \n$16$in het level kunt vinden. \n$17$de gekleurde voorwerpen\n$19$zijn de dingen die je al verzameld\n$12$hebt en kunt gebruiken.\n$15$En alsof dat nog niet genoeg is,\n$35$kun je ook in de voorwerpen-gebruiksaanwijzing\n$22$opzoeken hoe je ze gebruikt.\n$30$Dus, kom op! Probeer je inventaris uit\n$27$en reserveer een voorwerp in de brievenbus.\n$30$Vandaag! Batterijen niet inbegrepen!",
+        "$27$HÉ, wat mankeert jou?!\n$33$Pak dat voorwerp en zet het in je inventaris.\n$15$Je kunt het meteen \n$43$gebruiken door de $B_QUICKINV$-toets ingedrukt te houden.\n$12$En nog iets:\n$30$er zal een menu bij je voorwerpen verschijnen.\n$26$Selecteer het voorwerp van je keuze\n$20$met de rechter- en linkerpijl...\n$30$laat de toets los en klaar is kees.\n$22$Wil je voorwerpen opslaan,\n$26$druk dan ÉÉn keer op deze toets.\n$28$Ga nu terug en gebruik de raket\n$25$om naar het doel te vliegen.",
+        "",
+        "$24$HÉ-hÉ-hÉ, goed gedaan!\n$29$En vergeet niet: om 'n level te voltooien,\n$32$moet je in het doel staan mÉt het schaap!\n$30$Dus, jullie moeten béiden in het doel staan,\n$19$anders telt de uitdaging niet...\n$35$en dat zou verschikkelijk zijn.",
+        "$LOCK$$VIEW$$31$PSST. Ik sta vlak achter je.\n$35$gebruik de cameratoetsen\n$32$om de camera te bewegen.",
+        "$LOCK$$VIEW$$19$Nu verstop ik me hier.\n$15$Als je me wilt vinden,\n$44$hou dan de $B_INTVIEW$ toets ingedrukt.",
+        "$LOCK$$16$Dat gaat goed!\n$20$Deze commando's zijn handig\n$23$Als je rond wilt kijken...",
+        "$LOCK$$70$De eerste vraag luidt: hoe gebruik je de camera?"
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 2,
+      "strings": [
+        "",
+        "$27$Oeh, dat werkte niet zo best!\n$18$Volg mij, dan leg ik'n\n$24$paar commando's uit!\n$70$"
+      ]
+    },
+    {
+      "length": 82,
+      "strings": [
+        "PAUSA",
+        "VOLTAR",
+        "OPÇÕES",
+        "sair",
+        "OPÇÕES DE SOM",
+        "CONFIG. CONTROLE",
+        "AJUSTE DA TELA",
+        "MODO",
+        "EFEITOS DE SOM",
+        "VOZ",
+        "MÚSICA",
+        "LEGENDAS",
+        "MONO",
+        "ESTÉREO",
+        "Estéreo invertido",
+        "SIM",
+        "NÃO",
+        "CONFIGURAÇÃO",
+        "AÇÃO",
+        "SALTO",
+        "VISTA INTERNA",
+        "CORRIDA",
+        "INVENTÁRIO RÁPIDO",
+        "SIGILOSO",
+        "VISTA ESQUERDA",
+        "VISTA DIREITA",
+        "VIBRAÇÃO",
+        "PERSONALIZAR",
+        "TROCAR",
+        "ACEITAR",
+        "SELECIONAR BOTÃO",
+        "VOCÊ TEM CERTEZA?",
+        "CONFIRMAR",
+        "CANCELAR",
+        "VOLTAR",
+        "UTILIZAR",
+        "AJUDA",
+        "COMBINAR",
+        "PEDIR",
+        "PEGAR",
+        "FALAR",
+        "LEVAR",
+        "EMPURRAR",
+        "GIRAR",
+        "ENTRAR",
+        "ESCONDER-SE",
+        "UTILIZAR",
+        "ATIVAR",
+        "AGARRAR-SE",
+        "DESATIVAR",
+        "MAPA",
+        "LER",
+        "OLHAR",
+        "ESCALAR",
+        "COLOCAR",
+        "PARAR",
+        "DESATIVAR",
+        "SAIR",
+        "DESENGANCHAR",
+        "JOGAR FORA",
+        "SOLTAR",
+        "VOCÊ QUER PASSAR \nA SEQUÊNCIA?",
+        "BALIR",
+        "SOLTAR",
+        "BUUUUU",
+        "INFLAR",
+        "ABRIR",
+        "AGARRAR-SE",
+        "SOLTAR",
+        "GIRAR",
+        "PLANTAR",
+        "$B_START$ PARA COMEÇAR",
+        "GRAVAÇÃO AUTOMÁTICA",
+        "DESMONTAR",
+        "ESPERNEAR",
+        "GUARDAR",
+        "ACEITAR",
+        "Sheep Dog 'n' Wolf",
+        "AJUSTAR",
+        "BÔNUS",
+        "reinício em nível",
+        "cartão de memória"
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 1,
+      "strings": [
+        "FOGUETE:\nO FOGUETE É UM OBJETO MUITO ÚTIL QUE TE PERMITIRÁ VOAR.\n\nO BOTÃO $B_ACTION$ VAI SERVIR PARA VOCÊ DECOLAR OU SE AUTOLANÇAR.\nCOM O BOTÃO $B_RUN$ VOCÊ PODERÁ ACELERAR.\n\nO INDICADOR AZUL VAI MEDINDO  O CARBURANTE.\nO INDICADOR VERMELHO MOSTRA O NÚMERO DE VEZES QUE VOCÊ DÁ GOLPES CONTRA OS CENÁRIOS. \n\nTENTE NÃO DAR MUITOS GOLPES, PORQUE VOCÊ PODE SAIR VOANDO PELOS ARES."
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 3,
+      "strings": [
+        "\nATENÇÃO\n\nO USO PROLONGADO DESTE\nJOGO PODE FAZER MESMO\nAS PESSOAS MAIS NORMAIS\nPERDEREM A CABEÇA!",
+        "\n\nVOCÊ TEM CERTEZA QUE\nQUER JOGAR?",
+        "\nVOCÊ ESTÁ AVISADO!\n\nPARA COMEÇAR, ATRAVESSE\nA LINHA BRANCA..."
+      ]
+    },
+    {
+      "length": 24,
+      "strings": [
+        "Did you understand well?",
+        "$33$Se quiser me seguir\n-- e quem não quer ? --\n$47$uso o $B_JUMP$ e faça o que estou fazendo.",
+        "",
+        "$20$Se quiser saltar ainda mais alto,\n$22$pressione o botão uma segunda vez\n$29$quando estiver no ponto mais alto do salto.\n$30$Funciona bem demais.",
+        "",
+        "",
+        "$73$Heh-heh, Sugiro que use o $B_JUMP$ para dar um pequeno vôo.",
+        "$100$hoo-hoo, Ah,\n$32$às vezes eu me excedo.\n$32$Sério agora... Se quiser ser bom neste jogo,\n$28$terá que usar um velho recurso.\n$25$Venha, siga-me pela estrada.",
+        "$STOP$",
+        "$25$Ei... Que tal uma corridinha?\n$35$Quer saber como vencer:\nao cruzar a linha de partida,\n$31$ganhará uma quantidade limitada de tempo para termina a corrida.\n$35$Para isto, pressione $C_RED$firmemente$C_DEFAULT$ a $B_RUN$\n$22$para aumentar a sua $C_RED$velocidade$C_DEFAULT$.\n$21$Se correr com $C_RED$velocidade suficiente$C_DEFAULT$,\n$21$será capaz de ficar suspenso no ar\n$30$por um curto periodo de tempo.\n$34$Isto será útil para superar $C_RED$precipícios$C_DEFAULT$.\n$22$Bom sinônimo de penhasco.",
+        "$34$Ora essa ! Você é capaz de mais que isto.\n$18$Terá mais uma chance.",
+        "",
+        "",
+        "$20$Sabia que seria capaz!\n$20$Na certa será capaz de desafiar\n$17$Papa Léguas mais tarde no jogo,\n$21$caso você deseje.",
+        "$33$Para ajudá-lo a $C_RED$roubar ovelhas$C_DEFAULT$ de Sam Sheepdog,\n$26$você ganhará vários objetos.\n$20$Mas espere, tem mais\n$35$também terá de saber usar os objetos no fundo.\n$39$Para abrir o portão, o botão vermelho precisa ser pressionado.\n$25$Basta $C_RED$saltar a primeira gangorra$C_DEFAULT$\n$34$e a grande rocha irá jogá-lo outro lado.\n$25$Então, $C_RED$salte a segunda gangorra$C_DEFAULT$\n$30$para lançar a pequena rocha contra o botão\n$30$para que o portão continue aberto.\n$25$Ainda confuso ? Eu também...\n$36$Woo-hoo! Woo-hoo!",
+        "",
+        "$38$Ouça : se quiser pegar ovelhas e fazer um plano,\n$32$terá de usar seu $C_RED$inventário$C_DEFAULT$.\n$30$Primeiro pressione o botão $B_SELECT$\n$18$que irá mostrar o $C_RED$mapa do níveli$C_DEFAULT$\n$23$e os $C_RED$objetos$C_DEFAULT$ á sua disposição.\n$28$Para obter um objeto terá de encarregá-lo\n$21$abrindo uma caixa de correio.\n$19$Querendo saber em que caixa de correio\n$26$terá de encarregar um determinado objeto,\n$21$selecione-o em seu inventário\n$35$e um círculo vermelho aparecerá em volta da caixa de correio\n$23$e isto significa que é seu.\n$19$Os objetos desenhados em branco\n$28$são os que você pode achar no nível.\n$15$Os objetos coloridos\n$30$são os que você já coletou e pode usar.\n$18$E caso não baste,\n$26$pode também olhar nas instruções\n$29$para maiores instruções de uso.\n$30$Por isso, vamos lá.. vá ao seu inventario\n$28$e solicite um objeto em uma caixa de correio.\n$27$Hoje... Pilhas não incluídas.",
+        "$28$Ei, que que deu em você?\n$37$Pegue esse objeto e armazene-o em seu inventarío.\n$22$Então poderá usá-lo imediatamente\n$35$mantendo pressionado o botão $B_QUICKINV$.\n$13$Mais uma coisa:\n$29$um menu aparecerá com seus objetos.\n$39$Selecione o que você quer com as setas direita e esquerda.\n$36$Depois, solte o botaõ e está feito.\n$21$Se quiser armazenar o seu objeto\n$32$basta pressionar uma vez esse botão.\n$48$Agora volte e use o foguete para voar para a área.",
+        "",
+        "$23$He-he-hey, Muito bom.\n$29$Não se esqueça de que para terminar cada nível\n$35$você precisa estar na área com a ovelha.\n$27$Na verdade, vocês dois precisam estar na área\n$26$ou o desafio de nada valerá.\n$32$E isto seria inaceitável.",
+        "$LOCK$$VIEW$$31$PSSST. Estou atrás de você.\n$61$Basta usar os botões $B_CAM_LEFT$ e $B_CAM_RIGHT$ para movimentar a câmera.",
+        "$LOCK$$VIEW$$19$Agora irei me esconder aqui.\n$15$Se quiser me achar,\n$46$mantenha pressionado o botão $B_INTVIEW$.",
+        "$LOCK$$18$Muito bem, amigo.\n$16$Esses comandos serão úteis\n$21$caso queira olhar à sua volta.",
+        "$LOCK$$69$em primeiro lugar: como usar a câmera."
+      ]
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 0,
+      "strings": []
+    },
+    {
+      "length": 2,
+      "strings": [
+        "",
+        "$24$Ah.. não funcionou muito bem.\n$40$Siga-me e explicarei alguns comandos...\n$70$"
+      ]
+    }
+  ]
+}
