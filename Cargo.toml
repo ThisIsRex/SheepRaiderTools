@@ -9,7 +9,7 @@ opt-level = 0
 
 [profile.release]
 lto = true 
-codegen-units = 1    # should be 1, test diff
-opt-level = "z"       # is this highest  
+codegen-units = 1 
+opt-level = "z"
 symbols="strip"
 panic='abort'
